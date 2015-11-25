@@ -1,2 +1,3 @@
 # Hello-World
-something completely different...
+# I'm just learning the functions of github
+
