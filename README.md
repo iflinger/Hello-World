@@ -1,3 +1,3 @@
 # Hello-World
-# I'm just learning the functions of github
+I'm just learning the functions of github
 
